@@ -50,15 +50,7 @@ To use this script:
 4. **Verify**:
    After running the script, you can verify the successful installation of the Group Policy components by checking the availability of Group Policy management tools in the system.
 
-## Cloning Another Script from Lalatendu's Repository
 
-If you want to clone another script from Lalatendu's repositories, you can clone it from the following URL:
-
-```bash
-git clone https://github.com/Lalatenduswain/+ScriptName
-```
-
-Where `+ScriptName` is the script provided by Lalatendu in previous interactions. Be sure to check it for any necessary configurations or instructions.
 
 ## Disclaimer | Running the Script
 
