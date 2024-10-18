@@ -50,6 +50,11 @@ To use this script:
 4. **Verify**:
    After running the script, you can verify the successful installation of the Group Policy components by checking the availability of Group Policy management tools in the system.
 
+5. **Command**:
+   GPEDIT.MSC
+   SECPOL.MSC
+   GPUPDATE
+
 
 
 ## Disclaimer | Running the Script
